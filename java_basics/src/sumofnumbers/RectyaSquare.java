@@ -12,7 +12,7 @@ public class RectyaSquare {
      int d=src.nextInt();
 	if(a==b &&a==c&&a==d) {
 			System.out.println("it is a square");
-			
+				
 		}
 	else{
 		System.out.println("it is a rectangle");

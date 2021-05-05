@@ -18,7 +18,7 @@ public class Smallestlargest {
         {
             array[i] = s.nextInt();
         }
-        int largest=0;
+        int largest=array[0];
 		int smaller=array[0];
 		 
 		for(int i = 0; i < n; i++){
@@ -36,4 +36,3 @@ public class Smallestlargest {
 	}
 }
 
-// u there  ?
